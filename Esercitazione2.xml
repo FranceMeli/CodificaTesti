@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Il mio primo dizionario</title>
+                <author>Francesco Melighetti</author>
+            <titleStmt>
+            <publicationStmt>
+                <p>informazioni sulla pubblicazione </p>
+            </publicationStmt>
+            <sourceDesc>
+                        <p>Informazioni sulla sorgente </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry n="1">
+                <form type="Lemma">
+                    <orth>Fregare</orth>
+                    <pron notation="ipa">fre'gare</pron>
+                    <syll>Fre|ga|re</syll>
+                </form>
+                <gramGroup>
+                    <pos>v<pos>
+                    <subc>t</subc>
+                </gramGroup>
+                <etym>
+                    dal <lang>latino</lang>
+                    <mentioned>fricare</mentioned>
+                </etym>
+                <sense n= "s1">
+                    <def>fare....</def>
+                    <cit type="example">Avendo...</cit>
+                </sense>
+                <sense n= "s2">
+                    <usg type="reg">[popolare]</usg>
+                    <def>tirare..</def>
+                    <cit type="example"><quote>Ti..</quote><quote>Il..</quote>
+                    </cit>
+                </sense>
+                <re type="derived">
+                    <form>
+                        <orth>fregarsi</orth>
+                    </form>
+                </re>
+                <re type="derived">
+                    <form>
+                        <orth>fregatura</orth>
+                    </form>
+                </re>
+                <re type="derived">
+                    <form>
+                        <orth>sfregare</orth>
+                    </form>
+                </re>
+            </entry>
+        </body>
+    </text>
+
+
+
+
+            

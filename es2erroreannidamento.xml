@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--Con errore nell'annidamento -->
+<titolo>
+    <frase>Ciao</titolo>
+</frase>
+
+<!--Senza errore nell'annidamento -->
+<titolo>
+    <frase>Ciao</frase>
+</titolo>
+
