@@ -18,8 +18,8 @@
             <entry n="1">
                 <form type="Lemma">
                     <orth>Lessicografo</orth>
-                        <pron notation = "ipa">lessi'kografo</pron>
-                            <syll>les|si|co|gra|fo</syll>
+                    <pron notation = "ipa">lessi'kografo</pron>
+                    <syll>les|si|co|gra|fo</syll>
                 </form>
                 <gramGrp>
                     <pos>s,</pos>
