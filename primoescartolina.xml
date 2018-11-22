@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader xml:lang="Italy">
+        <fileDesc>
+            <titleStmt>
+                <title>Lettera di Vincenzo Bellini a Carlo Pepoli</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>Francesco Melighetti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>...
+            </publicationStmt>
+            <sourceDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text> 
+        <div n="1">
+            <date>Juin 26</date>
+            <placeName>Puteau </placeName>
+            <address> 
+                <addrLine> 19 bis rampe de Neuvilly</addrLine>
+            </address>
+            
+        </div>
+        <div n="2">
+            <p>
+               Mio caro <name>Carluccio</name>
+               avendo steso l'intero duetto
+            </p>
+        </div>
+    </text>
+</TEI>
